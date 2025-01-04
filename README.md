@@ -1,19 +1,19 @@
 ### Hi, Vardhan here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=meet-soni5720.meet-soni5720)
+![](https://visitor-badge.glitch.me/badge?page_id=Vardhan1303.Vardhan1303)
 
 ### 📫 How to reach me:
 
 <p>
-<a href="https://www.linkedin.com/in/meet-soni-156127184/">
+<a href="https://www.linkedin.com/in/vardhan-mistry/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/skymeet5720/">
+<a href="https://www.instagram.com/vardhanmistry/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100012258937087">
+<a href="https://www.facebook.com/profile.php?id=100088234415384">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="mailto:mastermeet5720@gmail.com">
+<a href="mailto:mistryvardhan@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
