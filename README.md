@@ -24,7 +24,7 @@
 # 💥 About Me  
 - **Mechatronics Engineer** ❤️  
 - Pursuing **MS in Mechatronics** at RWU - Germany 🎓  
-- Passionate about **ADAS, Computer Vision, and Robotics projects** 🔭  
+- Passionate about **AI/ML, Computer Vision, ADAS, and Robotics projects** 🔭  
 - Hardcore **anime lover** (◕‿◕)  
 - Enjoy engaging in **thoughtful discussions** 💯  
 - Love **sports** (especially Cricket), **Cycling**, and **Cooking** 🏏🚴‍🍳  
