@@ -1,27 +1,12 @@
+![1738513970812](https://github.com/user-attachments/assets/9e90d735-7499-4073-8ac8-f72e5f6d2596)
 
 ### 👋 Hey there, I’m Vardhan!
 <p align="center">
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" height="40" width="40" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vardhan-mistry/" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
-      alt="LinkedIn" 
-      width="28px" 
-      style="filter: invert(100%);" 
-    />
-  </a>
-  <a href="mailto:mistryvardhan@gmail.com">
-    <img 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" 
-      alt="Email" 
-      width="28px" 
-      style="filter: invert(100%);" 
-    />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-mistry/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mistryvardhan@gmail.com) 
 
 ---
 
