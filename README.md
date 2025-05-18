@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/bfa00d3b-a199-4b99-b54b-ebb7dfbbbfed)
+![Image](https://github.com/user-attachments/assets/a2fde46e-7502-43ec-a45d-45d40370d2e4)
 
 <h3 align="Left">
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
