@@ -54,7 +54,7 @@ I’m a Mechatronics Engineer and M.Sc. candidate at University of Applied Scien
 
 - 🏆 Team Collaboration
 - 📅 Strategic Planning
-- 🗣️ Communication: English, German, Hindi, Gujarati, Marathi
+- 🗣️ Communication: English, German, Hindi, Gujarati
 - 🚀 Agile Methodologies
 
 ---
