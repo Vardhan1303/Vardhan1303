@@ -1,4 +1,7 @@
-![Image](https://github.com/user-attachments/assets/a2fde46e-7502-43ec-a45d-45d40370d2e4)
+<p align="center">
+  <img src="https://github.com/yourusername/yourrepo/blob/main/yourimagename.png?raw=true" style="max-width: 100%; height: auto;">
+</p>
+
 
 <h3 align="Left">
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
