@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5b1b9687-6c7f-4d6b-8ac2-f14fdc332a7f" width="20%" />
-  <img src="https://github.com/user-attachments/assets/cfa38897-5b1d-496b-8fba-9d1b574460d2" width="30%" />
-  <img src="https://github.com/user-attachments/assets/b7091c38-0fc1-457c-b332-29b3d621d223" width="20%" />
+  <img src="https://github.com/user-attachments/assets/ca248e45-c622-4a61-84ee-abe671366e7f" width="100%" />
 </div>
 
 
