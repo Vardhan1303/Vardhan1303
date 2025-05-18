@@ -1,4 +1,3 @@
-```markdown
 ### 👋 Hey there, I’m Vardhan!
 <p align="center">
   <a href="https://www.linkedin.com/in/vardhan-mistry/" target="_blank">
@@ -63,4 +62,3 @@ Want to collaborate or chat about mechatronics, AI, or the latest anime? Feel fr
 <p align="center">
   <b>Let’s build something awesome together! 🚀</b>
 </p>
-```
