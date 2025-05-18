@@ -1,6 +1,10 @@
 
 ### 👋 Hey there, I’m Vardhan!
 <p align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving Hand" height="40" width="40" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/vardhan-mistry/" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
@@ -23,12 +27,14 @@
 
 ## 💥 About Me
 
-I’m a Mechatronics Engineer and MS candidate at University of Applied Sciences Ravensburg-Weingarten (RWU), Germany, with a passion for cutting-edge tech:
+I’m a Mechatronics Engineer and M.Sc. candidate at University of Applied Sciences Ravensburg-Weingarten (RWU), Germany, with a passion for:
 
 - 🎓 **Current Focus:** AI/ML, Computer Vision, NLP, ADAS & Robotics
-- 📖 **Lifelong Learner:** From research papers to anime, I love diving deep into new worlds
-- 🚴‍♂️ **Active Lifestyle:** Cycling enthusiast and occasional home chef
-- 🏏 **Team Player:** Cricket fanatic on and off the field
+- 👀 **Enthusiast for:** ADAS & the future of robotics
+- 💓 **Loves:** Computer Vision, Machine Learning & ADAS
+- 📖 **Lifelong Learner:** From research papers to anime
+- 🚴‍♂️ **Active Lifestyle:** Cycling & home cooking
+- 🏏 **Team Player:** Cricket fanatic
 
 > “Strive not to be a success, but rather to be of value.” – Albert Einstein
 
@@ -53,6 +59,26 @@ I’m a Mechatronics Engineer and MS candidate at University of Applied Sciences
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+---
+
+## 🌟 Soft Skills
+
+- 🏆 Team Collaboration
+- 📅 Strategic Planning
+- 🗣️ Communication: English, German, Hindi, Gujarati, Marathi
+- 🚀 Agile Methodologies
+
+---
+
+## 🌍 Domains & Interests
+
+- 🤖 Machine Learning
+- 🎯 Object Detection
+- 🖼️ Image Processing
+- 🌐 Sensor Fusion
+- 🎨 Generative AI
+- 🚗 ADAS
 
 ---
 
