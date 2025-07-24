@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d0c44e45-c9d1-4bfb-8572-c6b90eec64bc" width="100%" />
-</div>
-
-
 <h3 align="Left">
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -70,6 +65,10 @@ I’m a Mechatronics Engineer and M.Sc. candidate at University of Applied Scien
 - 🌐 Sensor Fusion
 - 🎨 Generative AI
 - 🚗 ADAS
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d0c44e45-c9d1-4bfb-8572-c6b90eec64bc" width="100%" />
+</div>
 
 ---
 
