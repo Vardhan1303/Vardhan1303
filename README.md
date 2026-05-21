@@ -1,20 +1,16 @@
-<h3 align="left">Vardhan Mistry</h3>
-
-M.Sc. Mechatronics · Ravensburg-Weingarten University of Applied Sciences (RWU)  
-Focused on Computer Vision, ML, and ADAS systems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vardhan-mistry/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mistryvardhan@gmail.com)
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=500&lines=Computer+Vision+Engineer;Machine+Learning+Developer;ADAS+%26+Robotics+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ## About
 
-Mechatronics engineer with hands-on experience in machine learning, computer vision, and autonomous systems. Interested in roles at the intersection of robotics, perception, and intelligent systems.
+Mechatronics engineer with hands-on experience in machine learning, computer vision, and autonomous systems. Focused on developing efficient, intelligent systems at the intersection of robotics, perception, and real-time deployment.
 
-**Areas of focus:** ADAS · Object Detection · Sensor Fusion · Generative AI · Image Processing
-
-**Languages:** English · German · Hindi · Gujarati
+**Areas of Focus:** ADAS · Object Detection · Sensor Fusion · Generative AI · Image Processing
 
 ---
 
@@ -41,10 +37,9 @@ Mechatronics engineer with hands-on experience in machine learning, computer vis
 
 ---
 
-## Projects
+## GitHub Metrics
 
-> Work in progress — check back soon.
-
----
-
-*Open to opportunities in robotics, autonomous systems, and applied ML.*
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150">
+</p>
