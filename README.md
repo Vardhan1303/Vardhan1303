@@ -12,25 +12,38 @@
 </div>
 
 ---
+<div align="center">
 
-### What I work on
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vardhan-mistry&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-Computer Vision · Deep Learning · Machine Learning  
-Autonomous Driving · ADAS · Robotics · Image Processing  
-Software Development
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan-mistry&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
-### Stack
+### What I work on
+
+Perception Systems · Computer Vision · Deep Learning · Autonomous Driving · Robotics · Sensor Intelligence
+
+---
 
 ```python
 stack = {
-    "languages" : ["Python", "C++"],
-    "ml_cv"     : ["PyTorch", "TensorFlow", "OpenCV", "Scikit-learn"],
-    "deployment": ["ONNX", "TensorRT", "ROS2", "Docker"],
-    "infra"     : ["Linux", "Git", "Azure", "AWS"],
+    "languages"   : ["Python", "C++"],
+    "ml_cv"       : ["PyTorch", "TensorFlow", "OpenCV", "Scikit-learn"],
+    "optimization": ["ONNX", "TensorRT", "CUDA"],
+    "robotics"    : ["ROS2"],
+    "systems"     : ["Linux", "Docker", "Git"],
 }
 ```
+---
+
+### Currently Building
+
+- 3D Computer Vision pipelines for depth and scene understanding
+- ROS2-based perception systems for autonomous robotics
+- Real-world computer vision projects focused on robustness and deployment
 
 ---
 
